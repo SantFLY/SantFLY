@@ -27,9 +27,9 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
   - Kotlin
   - HTML
   - CSS
-  - <img width="48" ![image](https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1)>
+  -
 
-
+<img src="[./icons/DiscordBots.svg](https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1)" width="48">
 - **Herramientas y Tecnologías:**
   - MySQL
   - MongoDB
