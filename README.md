@@ -1,8 +1,4 @@
 
-<p align="center">
-  <a href="https://skillicons.dev">
-  </a>
-</p>
 # ¡Bienvenido a mi Portafolio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ¡Hola! Soy Santiago Polanco, un apasionado programador junior con especial interés en bases de datos, automatizaciones y Python, entre otras áreas emocionantes. Este es mi rincón digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programación.
