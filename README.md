@@ -27,7 +27,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
   - Kotlin
   - HTML
   - CSS
-  - ![image](https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1)
+  - ![image width="48"](https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1)
 
 
 - **Herramientas y Tecnologías:**
