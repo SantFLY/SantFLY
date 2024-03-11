@@ -23,19 +23,17 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 ## Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 - **Lenguajes de Programación:**
  <img width="52" src="https://skillicons.dev/icons?i=js">
- <img width="52" src="https://skillicons.dev/icons?i=html"><img width="52" src="https://skillicons.dev/icons?i=php">
- <img width="52" src="https://skillicons.dev/icons?i=css"><img width="52" src="https://skillicons.dev/icons?i=python">
- 
- 
+ <img width="52" src="https://skillicons.dev/icons?i=html">
+ <img width="52" src="https://skillicons.dev/icons?i=css">
+ <img width="52" src="https://skillicons.dev/icons?i=python">
+ <img width="52" src="https://skillicons.dev/icons?i=php">
  
 - **Herramientas y Tecnologías:**<br>
- <img src="https://github.com/SantFLY/SantFLY/assets/163043462/16cde4c7-b4a1-4a6b-aae9-cca7a353ef18" width="52">
+ <img width="52" src="https://skillicons.dev/icons?i=mysql">
  <img width="52" src="https://skillicons.dev/icons?i=mongodb">
-  
-
-
-  - Selenium
-  - Bootstrap
-  - VirtualBox
+ <img width="52" src="https://skillicons.dev/icons?i=selenium">
+ <img width="52" src="https://skillicons.dev/icons?i=bootstrap">
+ <img width="52" src="https://skillicons.dev/icons?i=bootstrap">
+ <img width="52" src="https://skillicons.dev/icons?i=visualstudio">
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
