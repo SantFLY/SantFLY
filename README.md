@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ¡Hola! Soy Santiago Polanco, un apasionado programador junior con especial interés en bases de datos, automatizaciones y Python, entre otras áreas emocionantes. Este es mi rincón digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programación.
 <br><br>
-## Sobre Mí <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture>
+## Sobre Mí <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture>
 
 
 - 🎓 Graduado del SENA.
