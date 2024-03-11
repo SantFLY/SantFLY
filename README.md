@@ -32,7 +32,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 <img src="https://github.com/SantFLY/SantFLY/assets/163043462/16cde4c7-b4a1-4a6b-aae9-cca7a353ef18" width="52">
 <p>
   <a href="https://skillicons.dev">
-    <img align="center" width="52" src="https://skillicons.dev/icons?i=mongoDB" alt="My Skills">
+    <img align="center" width="52" src="https://skillicons.dev/icons?i=mongodb" alt="My Skills">
   </a>
 </p>
 
