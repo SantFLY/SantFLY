@@ -30,7 +30,12 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
  
 - **Herramientas y Tecnologías:**<br>
 <img src="https://github.com/SantFLY/SantFLY/assets/163043462/16cde4c7-b4a1-4a6b-aae9-cca7a353ef18" width="52">
-<img src="https://iconos8.es/icon/74402/mongodb" width="52">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./icons/MongoDB.svg" width="52">    
+  </a>
+</p>
+
   - Selenium
   - Bootstrap
   - VirtualBox
