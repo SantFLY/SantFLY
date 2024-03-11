@@ -27,7 +27,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
  <img src="https://github.com/SantFLY/SantFLY/assets/163043462/ca4d5734-5bfb-497d-9a99-19d99bf279c8" width="52">
  <img src="https://github.com/SantFLY/SantFLY/assets/163043462/5fc38b9e-e101-4501-9f35-6d95c94ac55c" width="52">
  
-- **Herramientas y Tecnologías:**
+- **Herramientas y Tecnologías:**<br>
   <img src="https://github.com/SantFLY/SantFLY/assets/163043462/16cde4c7-b4a1-4a6b-aae9-cca7a353ef18" width="52">
   <img src="https://iconos8.es/icon/74402/mongodb" width="52">
   - Selenium
