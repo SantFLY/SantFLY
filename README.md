@@ -24,7 +24,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 - **Lenguajes de Programación:**
  <!-- Lenguajes de Programación -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="margin-bottom: 10px;">
+    <div style="margin-bottom: 20px;">
         <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
         <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
       <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
@@ -51,4 +51,5 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
     </div>
 </div>
 
+<br><br>
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
