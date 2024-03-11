@@ -27,13 +27,14 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
     <div style="margin-bottom: 10px;">
         <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
         <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
+      <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
     </div>
     <div style="margin-bottom: 10px;">
         <img width="52" src="https://skillicons.dev/icons?i=css" alt="CSS">
         <img width="52" src="https://skillicons.dev/icons?i=python" alt="Python">
     </div>
     <div>
-        <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
+        
     </div>
 </div>
 
@@ -45,13 +46,14 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
     <div style="display: flex; margin-bottom: 5px;">
         <img width="52" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
         <img width="52" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+        <img width="52" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
     </div>
     <div style="display: flex; margin-bottom: 5px;">
         <img width="52" src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
         <img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
     </div>
     <div style="display: flex;">
-        <img width="52" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
+       
     </div>
 </div>
 
