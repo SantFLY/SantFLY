@@ -33,9 +33,6 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
         <img width="52" src="https://skillicons.dev/icons?i=css" alt="CSS">
         <img width="52" src="https://skillicons.dev/icons?i=python" alt="Python">
     </div>
-    <div>
-        
-    </div>
 </div>
 
 
@@ -51,9 +48,6 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
     <div style="display: flex; margin-bottom: 5px;">
         <img width="52" src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
         <img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
-    </div>
-    <div style="display: flex;">
-       
     </div>
 </div>
 
