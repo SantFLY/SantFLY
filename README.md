@@ -1,44 +1,38 @@
-# Bienvenido a mi Portafolio 👋
+# ¡Bienvenido a mi Portafolio! 👋
 
-¡Hola! Soy Santiago Polanco, un programador junior apasionado por las bases de datos, automaticasaciones y el python entre otras cosas. Este es mi espacio digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programacion.
+¡Hola! Soy Santiago Polanco, un apasionado programador junior con especial interés en bases de datos, automatizaciones y Python, entre otras áreas emocionantes. Este es mi rincón digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programación.
 
-Sobre mí 🚀
+## Sobre Mí 🚀
 
-- 🎓 Graduado en SENA
-- 💼 Actualmente trabajando como Alto colombia
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
+- 🎓 Graduado del SENA.
+- 💼 Actualmente trabajando en Alto Colombia.
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 
 ## Proyectos Destacados 🌟
 
-Aquí tienes algunos proyectos destacados en los que he trabajado:
+Aquí tienes algunos proyectos destacados en los que he invertido tiempo y creatividad:
 
-1. MyBog https://github.com/SantFLY/MyBog
-   ----------------------------------------
-MyBog es un proyecto de turismo enfocado recomendaciones de lugares turisticos referentes a la capital de colombia Bogota, esta implementado con HTML, CSS, JS y php. adiconalmente para el responsive se a utilizado boostrap y de bd MySql 
-   
-   
-2. Automatizacion con selenimun https://github.com/SantFLY/selenium-automatizacion
-   ----------------------------------------
-Proyecto referente a la automatizacion utilizando python y selenium
+### 1. [MyBog](https://github.com/SantFLY/MyBog)
+MyBog es un proyecto centrado en el turismo que ofrece recomendaciones de lugares en la maravillosa ciudad de Bogotá, Colombia. Implementado con HTML, CSS, JS, y PHP, y para garantizar la adaptabilidad, he utilizado Bootstrap y una base de datos MySQL.
+
+### 2. [Automatización con Selenium](https://github.com/SantFLY/selenium-automatizacion)
+Este proyecto se centra en la automatización mediante Python y Selenium, explorando el fascinante mundo de la automatización de procesos.
 
 ## Habilidades Técnicas 💻
 
-- Lenguajes de Programación:
-    PHP
-    Python
-    JS
-    Kotlin
-    HTML
-    CSS
-- Herramientas y Tecnologías:
-    MYSQL
-    MONGODB
-    SELENIUM
-    BOOSTRAP
-    VIRTUAL BOX
-    
+- **Lenguajes de Programación:**
+  - PHP
+  - Python
+  - JavaScript (JS)
+  - Kotlin
+  - HTML
+  - CSS
 
-¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones.
+- **Herramientas y Tecnologías:**
+  - MySQL
+  - MongoDB
+  - Selenium
+  - Bootstrap
+  - VirtualBox
 
-
-⭐️ ¡Si encuentras algo interesante, no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
+¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
