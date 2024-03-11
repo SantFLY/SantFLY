@@ -51,8 +51,6 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
         <img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
     </div>
     <div style="display: flex;">
-        <!-- Si decides mantener Bootstrap solo una vez -->
-        <!--<img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">-->
         <img width="52" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
     </div>
 </div>
