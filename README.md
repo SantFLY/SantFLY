@@ -17,8 +17,9 @@ Aquí tienes algunos proyectos destacados en los que he trabajado:
 MyBog es un proyecto de turismo enfocado recomendaciones de lugares turisticos referentes a la capital de colombia Bogota, esta implementado con HTML, CSS, JS y php. adiconalmente para el responsive se a utilizado boostrap y de bd MySql 
    
    
-3. **[Nombre del Proyecto 2](enlace al repositorio o proyecto)** - Breve descripción.
-
+2. Automatizacion con selenimun https://github.com/SantFLY/selenium-automatizacion
+   ----------------------------------------
+Proyecto referente a la automatizacion utilizando python y selenium
 
 ## Habilidades Técnicas 💻
 
@@ -34,6 +35,7 @@ MyBog es un proyecto de turismo enfocado recomendaciones de lugares turisticos r
     MONGODB
     SELENIUM
     BOOSTRAP
+    VIRTUAL BOX
     
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones.
