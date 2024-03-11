@@ -8,7 +8,7 @@
 - 🎓 Graduado del SENA.
 - 💼 Actualmente trabajando en Alto Colombia.
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-
+<br><br>
 ## Proyectos Destacados 🌟
 
 Aquí tienes algunos proyectos destacados en los que he invertido tiempo y creatividad:
@@ -18,7 +18,7 @@ MyBog es un proyecto centrado en el turismo que ofrece recomendaciones de lugare
 
 ### 2. [Automatización con Selenium](https://github.com/SantFLY/selenium-automatizacion)
 Este proyecto se centra en la automatización mediante Python y Selenium, explorando el fascinante mundo de la automatización de procesos.
-
+<br><br>
 ## Habilidades Técnicas 💻
 
 - **Lenguajes de Programación:**
