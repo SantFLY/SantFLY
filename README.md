@@ -1,7 +1,7 @@
 # ¡Bienvenido a mi Portafolio! 👋
 
 ¡Hola! Soy Santiago Polanco, un apasionado programador junior con especial interés en bases de datos, automatizaciones y Python, entre otras áreas emocionantes. Este es mi rincón digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programación.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Sobre Mí 🚀
 
 - 🎓 Graduado del SENA.
@@ -34,5 +34,5 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
   - Selenium
   - Bootstrap
   - VirtualBox
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
