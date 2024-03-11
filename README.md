@@ -12,25 +12,31 @@ Sobre mí 🚀
 
 Aquí tienes algunos proyectos destacados en los que he trabajado:
 
-1. MyBog (enlace al repositorio o proyecto)** 
-2. **[Nombre del Proyecto 2](enlace al repositorio o proyecto)** - Breve descripción.
+1. MyBog (enlace al repositorio o proyecto)
+   ----------------------------------------
+MyBog es un proyecto de turismo enfocado recomendaciones de lugares turisticos referentes a la capital de colombia Bogota, esta implementado con HTML, CSS, JS y php. adiconalmente para el responsive se a utilizado boostrap y de bd MySql 
+   
+   
+3. **[Nombre del Proyecto 2](enlace al repositorio o proyecto)** - Breve descripción.
 
 
 ## Habilidades Técnicas 💻
 
-- Lenguajes de Programación: [Lista de lenguajes]
-- Herramientas y Tecnologías: [Lista de herramientas y tecnologías]
-
-## Contacto 📬
-
-¡Conéctate conmigo en las redes sociales y plataformas profesionales!
-
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Twitter](enlace a tu perfil de Twitter)
-- [Sitio Web/Portafolio Personal](enlace a tu sitio web, si tienes uno)
+- Lenguajes de Programación:
+    PHP
+    Python
+    JS
+    Kotlin
+    HTML
+    CSS
+- Herramientas y Tecnologías:
+    MYSQL
+    MONGODB
+    SELENIUM
+    BOOSTRAP
+    
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones.
 
--
 
 ⭐️ ¡Si encuentras algo interesante, no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
