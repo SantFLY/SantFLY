@@ -23,9 +23,9 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 ## Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 - **Lenguajes de Programación:**
  <img width="52" src="https://skillicons.dev/icons?i=js">
- <img src="https://github.com/SantFLY/SantFLY/assets/163043462/96183035-8ce7-4830-a23f-825dbf6692e0" width="52">
- <img src="https://github.com/SantFLY/SantFLY/assets/163043462/8cbb7001-c194-4074-8993-53daa99d96c1" width="52">
- <img src="https://github.com/SantFLY/SantFLY/assets/163043462/ca4d5734-5bfb-497d-9a99-19d99bf279c8" width="52">
+ <img width="52" src="https://skillicons.dev/icons?i=html">
+ <img width="52" src="https://skillicons.dev/icons?i=css">
+ <img width="52" src="https://skillicons.dev/icons?i=php">
  <img src="https://github.com/SantFLY/SantFLY/assets/163043462/5fc38b9e-e101-4501-9f35-6d95c94ac55c" width="52">
  
 - **Herramientas y Tecnologías:**<br>
