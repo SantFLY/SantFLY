@@ -23,22 +23,27 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 ## Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 - **Lenguajes de Programación:**
  <!-- Lenguajes de Programación -->
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="margin: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+<div style="display: flex; flex-wrap: wrap; flex-direction: column;">
+    <div style="display: flex; margin: 5px;">
+        <div style="margin-right: 5px;">
+            <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+        </div>
+        <div>
+            <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
+        </div>
     </div>
-    <div style="margin: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
-    </div>
-    <div style="margin: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=css" alt="CSS">
-    </div>
-    <div style="margin: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=python" alt="Python">
+    <div style="display: flex; margin: 5px;">
+        <div style="margin-right: 5px;">
+            <img width="52" src="https://skillicons.dev/icons?i=css" alt="CSS">
+        </div>
+        <div>
+            <img width="52" src="https://skillicons.dev/icons?i=python" alt="Python">
+        </div>
     </div>
     <div style="margin: 5px;">
         <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
     </div>
+</div>
 </div>
 
  
