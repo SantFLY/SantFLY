@@ -23,10 +23,12 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 - **Lenguajes de Programación:**
   - PHP
   - Python
-  - JavaScript (JS) <img src="https://github.com/SantFLY/SantFLY/raw/main/assets/163043462/ae0ff388-16a9-46df-bc85-ebcb33399bfa.jpg" alt="JavaScript (JS)" style="max-width:100%; height:auto;">
+  - JavaScript (JS) 
   - Kotlin
   - HTML
   - CSS
+  - ![image](https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1)
+
 
 - **Herramientas y Tecnologías:**
   - MySQL
