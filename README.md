@@ -12,7 +12,7 @@ Sobre mí 🚀
 
 Aquí tienes algunos proyectos destacados en los que he trabajado:
 
-1. MyBog (enlace al repositorio o proyecto)
+1. MyBog https://github.com/SantFLY/MyBog
    ----------------------------------------
 MyBog es un proyecto de turismo enfocado recomendaciones de lugares turisticos referentes a la capital de colombia Bogota, esta implementado con HTML, CSS, JS y php. adiconalmente para el responsive se a utilizado boostrap y de bd MySql 
    
