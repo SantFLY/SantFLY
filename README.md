@@ -20,13 +20,11 @@ MyBog es un proyecto centrado en el turismo que ofrece recomendaciones de lugare
 Este proyecto se centra en la automatización mediante Python y Selenium, explorando el fascinante mundo de la automatización de procesos.
 <br><br>
 ## Habilidades Técnicas 💻
-
+<img src="./icons/Java-Dark.svg" width="48"> 
 - **Lenguajes de Programación:**
   - PHP
   - Python
   - JavaScript (JS)
-<img src="./icons/JavaScript.svg" width="48">
-    <img src="./icons/Java-Dark.svg" width="48"> 
   - Kotlin
   - HTML
   - CSS
