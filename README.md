@@ -41,11 +41,20 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 
  
 - **Herramientas y Tecnologías:**<br>
- <img width="52" src="https://skillicons.dev/icons?i=mysql">
- <img width="52" src="https://skillicons.dev/icons?i=mongodb">
- <img width="52" src="https://skillicons.dev/icons?i=selenium">
- <img width="52" src="https://skillicons.dev/icons?i=bootstrap">
- <img width="52" src="https://skillicons.dev/icons?i=bootstrap">
- <img width="52" src="https://skillicons.dev/icons?i=visualstudio">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="display: flex; margin-bottom: 5px;">
+        <img width="52" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+        <img width="52" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+    </div>
+    <div style="display: flex; margin-bottom: 5px;">
+        <img width="52" src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
+        <img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+    </div>
+    <div style="display: flex;">
+        <!-- Si decides mantener Bootstrap solo una vez -->
+        <!--<img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">-->
+        <img width="52" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
+    </div>
+</div>
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
