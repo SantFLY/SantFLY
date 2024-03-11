@@ -24,7 +24,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 - **Lenguajes de Programación:**
   - PHP
   - Python
-  - JavaScript (JS)
+  - JavaScript (JS) <img src="./icons/JavaScript.svg" width="48"> 
   - Kotlin
   - HTML
   - CSS
