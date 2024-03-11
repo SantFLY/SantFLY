@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" width="280" src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
   </a>
 </p>
 # ¡Bienvenido a mi Portafolio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
