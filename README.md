@@ -24,7 +24,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 - **Lenguajes de Programación:**
  <!-- Lenguajes de Programación -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 10px;">
         <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
         <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
       <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
