@@ -35,4 +35,5 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
   - Selenium
   - Bootstrap
   - VirtualBox
+
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
