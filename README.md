@@ -23,7 +23,7 @@ Este proyecto se centra en la automatización mediante Python y Selenium, explor
 - **Lenguajes de Programación:**
  <img src="https://github.com/SantFLY/SantFLY/assets/163043462/bb0bca4f-8f9c-470b-b8ca-38cfd063dbd1" width="48"> 
  <img src="https://github.com/SantFLY/SantFLY/assets/163043462/96183035-8ce7-4830-a23f-825dbf6692e0" width="48">
- <img src="![image](https://github.com/SantFLY/SantFLY/assets/163043462/8cbb7001-c194-4074-8993-53daa99d96c1)" width="48">
+ <img src="https://github.com/SantFLY/SantFLY/assets/163043462/8cbb7001-c194-4074-8993-53daa99d96c1" width="48">
 
 
 - **Herramientas y Tecnologías:**
