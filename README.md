@@ -19,7 +19,7 @@ MyBog es un proyecto centrado en el turismo que ofrece recomendaciones de lugare
 ### 2. [Automatización con Selenium](https://github.com/SantFLY/selenium-automatizacion)
 Este proyecto se centra en la automatización mediante Python y Selenium, explorando el fascinante mundo de la automatización de procesos.
 <br><br>
-## Habilidades Técnicas 💻
+## Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 - **Lenguajes de Programación:**
   - PHP
   - Python
