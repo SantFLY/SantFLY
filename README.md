@@ -7,7 +7,8 @@
 
 
 - 🎓 Graduado del SENA.
-- 💼 Actualmente trabajando en Alto Colombia.
+- 💼 Actualmente en busca de empleo.
+- 💼 Trabeje en Alto colombia
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 <br><br>
 ## Proyectos Destacados 🌟
