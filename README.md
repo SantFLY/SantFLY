@@ -1,56 +1,112 @@
+<!-- Banner animado superior -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Santiago+Polanco!;Ingeniero+de+Software+en+formaci%C3%B3n+%7C+Desarrollador+Creativo;Apasionado+por+la+IA%2C+automatizaci%C3%B3n+y+la+innovaci%C3%B3n;Siempre+listo+para+crear+algo+incre%C3%ADble+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-# ¡Bienvenido a mi Portafolio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-¡Hola! Soy Santiago Polanco, un apasionado programador junior con especial interés en bases de datos, automatizaciones y Python, entre otras áreas emocionantes. Este es mi rincón digital donde comparto mi trabajo, proyectos y exploraciones en el fascinante mundo de la programación.
-<br><br>
-## Sobre Mí <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
 
+---
 
-- 🎓 Graduado del SENA.
-- 💼 Actualmente en busca de empleo.
-- 💼 Trabeje en Alto colombia
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-<br><br>
-## Proyectos Destacados 🌟
+# 👨‍💻 ¡Bienvenido a mi Portafolio!
 
-Aquí tienes algunos proyectos destacados en los que he invertido tiempo y creatividad:
+> **Estudiante de Ingeniería de Software (7° semestre) en uCOMPENSAR | Desarrollador Junior | Apasionado por la IA, automatización y la innovación**
 
-### 1. [MyBog](https://github.com/SantFLY/MyBog)
-MyBog es un proyecto centrado en el turismo que ofrece recomendaciones de lugares en la maravillosa ciudad de Bogotá, Colombia. Implementado con HTML, CSS, JS, y PHP, y para garantizar la adaptabilidad, he utilizado Bootstrap y una base de datos MySQL.
+---
 
-### 2. [Automatización con Selenium](https://github.com/SantFLY/selenium-automatizacion)
-Este proyecto se centra en la automatización mediante Python y Selenium, explorando el fascinante mundo de la automatización de procesos.
-<br><br>
-## Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-- **Lenguajes de Programación:**
- <!-- Lenguajes de Programación -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="margin-bottom: 10px;">
-        <img width="52" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-        <img width="52" src="https://skillicons.dev/icons?i=html" alt="HTML">
-      <img width="52" src="https://skillicons.dev/icons?i=php" alt="PHP">
-    </div>
-    <div style="margin-bottom: 10px;">
-        <img width="52" src="https://skillicons.dev/icons?i=css" alt="CSS">
-        <img width="52" src="https://skillicons.dev/icons?i=python" alt="Python">
-    </div>
-</div>
+## 🦄 ¿Quién soy?
 
+- 🎓 **Formación:**  
+  - Ingeniería de Software (7° semestre) — Ucompensar
+  - Técnologo en Programación de Software — SENA
+- 💼 **Experiencia previa:** Alto Colombia
+- 🚀 **Intereses:** IA, automatización, backend, bases de datos, interfaces gráficas modernas
+- 🌱 **Aprendiendo:** FastAPI, Docker, PyQt, MongoDB, GitHub Actions, DevOps, Machine Learning
+- 🤝 **Colaborativo:** Siempre listo para aprender, compartir y trabajar en equipo
+- 🧩 **Dato curioso:** ¡Puedo automatizar desde tu PC hasta tu nevera! (si tiene WiFi 😄)
 
+---
 
- 
-- **Herramientas y Tecnologías:**<br>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="display: flex; margin-bottom: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-        <img width="52" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
-        <img width="52" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
-    </div>
-    <div style="display: flex; margin-bottom: 5px;">
-        <img width="52" src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
-        <img width="52" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
-    </div>
-</div>
+## 🚀 Proyectos Destacados
 
-<br><br>
-¡Gracias por visitar mi portafolio! Espero que encuentres interesantes mis proyectos y contribuciones. Si algo llama tu atención, ¡no dudes en dejar una estrella en los repositorios correspondientes! ⭐️
+### 🦾 [Sassy - Asistente Virtual Inteligente](https://github.com/SantFLY/Proyecto_IA_Sassy)
+![Sassy Banner](https://i.imgur.com/8Q2Q5Qp.png)
+> **NUEVO:** Asistente personal para Windows con GUI moderna, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales.  
+> **Stack:** Python, PyQt5, PySide6, Machine Learning, GitHub Actions, Git LFS.
+
+### 🌎 [MyBog](https://github.com/SantFLY/MyBog)
+Proyecto de turismo en Bogotá con recomendaciones de lugares.  
+**Stack:** HTML, CSS, JS, PHP, Bootstrap, MySQL.
+
+### 🤖 [Automatización con Selenium](https://github.com/SantFLY/selenium-automatizacion)
+Automatización de procesos con Python y Selenium.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,mongodb,selenium,bootstrap,fastapi,pyqt,docker,git,githubactions,visualstudio" />
+</p>
+
+---
+
+## 🌱 Actualmente Aprendiendo
+
+- Machine Learning y Deep Learning
+- Desarrollo de interfaces gráficas avanzadas (PyQt, PySide6)
+- DevOps y CI/CD con GitHub Actions
+- Contenedores con Docker
+
+---
+
+## 🎮 Reto Visual Interactivo: ¡Desbloquea el ASCII!
+
+<p align="center">
+  <img src="https://art.pixilart.com/6b6e2e2e7e2e2e2.gif" width="300" alt="ascii-art"/>
+</p>
+
+> **¿Te atreves a resolverlo?**
+>
+> 1. Busca en el código fuente de Sassy un archivo oculto llamado `easter_egg.txt`.
+> 2. Dentro encontrarás un mensaje cifrado en arte ASCII.
+> 3. El primero que lo descifre y me envíe el mensaje por Discord o LinkedIn, ¡recibirá una mención especial en mi perfil y un regalo digital sorpresa!  
+>
+> **Pista:** El arte ASCII es animado y contiene una palabra clave relacionada con IA.
+
+---
+
+## 📊 Mi GitHub como Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantFLY&show_icons=true&theme=tokyonight&hide_title=true" alt="Santiago's GitHub stats" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SantFLY&theme=onedark&margin-w=10&margin-h=10" width="400"/>
+</p>
+
+---
+
+## 🗺️ Mapa de calor de contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SantFLY&theme=react-dark" width="700"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:santiagopolanco.dev@gmail.com"><img src="https://img.shields.io/badge/Email-santiagopolanco.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/santiagopolanco/"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Polanco-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/SantFLY"><img src="https://img.shields.io/badge/GitHub-SantFLY-black?style=flat-square&logo=github"></a>
+  <img src="https://img.shields.io/badge/Discord-SantFLY%230001-7289DA?style=flat-square&logo=discord">
+</p>
+
+---
+
+## ⭐ ¡Gracias por visitar mi portafolio!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Si+te+gusta+mi+trabajo%2C+deja+una+estrella+%E2%AD%90;Siempre+listo+para+colaborar+y+aprender+%F0%9F%92%BB" alt="Typing SVG" />
+</p> 
