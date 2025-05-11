@@ -32,9 +32,21 @@
 ## 🚀 Proyectos Destacados
 
 ### 🦾 [Sassy - Asistente Virtual Inteligente](https://github.com/SantFLY/Proyecto_IA_Sassy)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SantFLY/Proyecto_IA_Sassy/main/assets/cubo_animado.svg" width="200" alt="Cubo 3D SVG animado"/>
-</p>
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML"
+      type="rotate" from="0 100 100" to="360 100 100"
+      dur="3s" repeatCount="indefinite"/>
+    <polygon points="100,30 170,65 170,135 100,170 30,135 30,65"
+      fill="#36BCF7" stroke="#222" stroke-width="3"/>
+    <polygon points="100,30 170,65 100,100 30,65"
+      fill="#1e90ff" stroke="#222" stroke-width="2"/>
+    <polygon points="100,100 170,65 170,135 100,170"
+      fill="#0a5fa0" stroke="#222" stroke-width="2"/>
+    <polygon points="100,100 30,65 30,135 100,170"
+      fill="#0a3d6a" stroke="#222" stroke-width="2"/>
+  </g>
+</svg>
 
 > **NUEVO:** Asistente personal para Windows con GUI, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales. 
 
