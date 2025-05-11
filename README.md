@@ -33,11 +33,11 @@
 
 ### 🦾 [Sassy - Asistente Virtual Inteligente](https://github.com/SantFLY/Proyecto_IA_Sassy)
 <p align="center">
-  <a href="https://sketchfab.com/3d-models/cube-7w7pAfrJrQw" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Cubo 3D animado"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/SantFLY/Proyecto_IA_Sassy/main/assets/cubo_animado.svg" width="200" alt="Cubo 3D SVG animado"/>
 </p>
-> **NUEVO:** Asistente personal para Windows con GUI, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales.  
+
+> **NUEVO:** Asistente personal para Windows con GUI, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales. 
+
 > **Stack:** Python, PyQt5, PySide6, Machine Learning, GitHub Actions, Git LFS.
 
 ### 🌎 [MyBog](https://github.com/SantFLY/MyBog)
