@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Matrix code rain"/>
 </p>
+
 
 ---
 
@@ -31,8 +32,12 @@
 ## 🚀 Proyectos Destacados
 
 ### 🦾 [Sassy - Asistente Virtual Inteligente](https://github.com/SantFLY/Proyecto_IA_Sassy)
-![Sassy Banner](https://i.imgur.com/8Q2Q5Qp.png)
-> **NUEVO:** Asistente personal para Windows con GUI moderna, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales.  
+<p align="center">
+  <a href="https://sketchfab.com/3d-models/cube-7w7pAfrJrQw" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Cubo 3D animado"/>
+  </a>
+</p>
+> **NUEVO:** Asistente personal para Windows con GUI, integración de sistemas de seguridad, proactividad, aprendizaje automático y notificaciones visuales.  
 > **Stack:** Python, PyQt5, PySide6, Machine Learning, GitHub Actions, Git LFS.
 
 ### 🌎 [MyBog](https://github.com/SantFLY/MyBog)
@@ -71,7 +76,7 @@ Automatización de procesos con Python y Selenium.
 >
 > 1. Busca en el código fuente de Sassy un archivo oculto llamado `easter_egg.txt`.
 > 2. Dentro encontrarás un mensaje cifrado en arte ASCII.
-> 3. El primero que lo descifre y me envíe el mensaje por Discord o LinkedIn, ¡recibirá una mención especial en mi perfil y un regalo digital sorpresa!  
+> 3. El primero que lo descifre y me envíe el mensaje por Discord o LinkedIn, ¡recibirá un regalo digital sorpresa!  
 >
 > **Pista:** El arte ASCII es animado y contiene una palabra clave relacionada con IA.
 
@@ -86,19 +91,11 @@ Automatización de procesos con Python y Selenium.
 
 ---
 
-## 🗺️ Mapa de calor de contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SantFLY&theme=react-dark" width="700"/>
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:santiagopolanco.dev@gmail.com"><img src="https://img.shields.io/badge/Email-santiagopolanco.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/santiagopolanco/"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Polanco-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:santi01031@outlook.com"><img src="https://img.shields.io/badge/Email-santi01031@outlook.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/santiago-polanco-buitrago-133487317/"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Polanco-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/SantFLY"><img src="https://img.shields.io/badge/GitHub-SantFLY-black?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Discord-SantFLY%230001-7289DA?style=flat-square&logo=discord">
 </p>
